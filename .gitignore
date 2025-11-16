@@ -1,0 +1,81 @@
+# Entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch / Machine Learning
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+*.onnx
+models_saved/
+*.pkl
+*.joblib
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Datos grandes (si no se usan Git LFS)
+# Descomentar si no quieres subir los datos de imágenes
+# data/raw/images/
+# data/processed/images_resized/
+
+# Logs y resultados temporales
+*.log
+logs/
+results/temp/
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.py
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
