@@ -1,0 +1,10 @@
+INFORMACION DE PREPROCESAMIENTO
+============================================================
+
+Metodo de imputacion: knn
+Caracteristicas creadas: 8
+  - Age_squared, BMI_category, MAP, Cholesterol_ratio, Comorbidity_count, Cognitive_symptoms_count, Age_MMSE_interaction, Cardiovascular_risk
+
+Caracteristicas seleccionadas: 39
+
+Dimensiones finales: (2149, 40)
