@@ -43,9 +43,6 @@ models_saved/
 *.pkl
 *.joblib
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # IDEs
 .vscode/
