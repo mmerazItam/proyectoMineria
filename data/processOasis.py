@@ -7,7 +7,7 @@ import pandas as pd
 # -----------------------------
 # CONFIGURACIÓN DEL USUARIO
 # -----------------------------
-RAW_DIR = r"C:\Users\mmera\OneDrive\Escritorio\ProyectoMineria\proyectoMineria\data\raw\OASIS\OAS2_RAW_PART1\OAS2_RAW_PART1"
+RAW_DIR = r"C:\Users\mmera\OneDrive\Escritorio\ProyectoMineria\proyectoMineria\data\raw\OASIS\OAS2_RAW_PART2\OAS2_RAW_PART2"
 CLINICAL_CSV = r"C:\Users\mmera\OneDrive\Escritorio\ProyectoMineria\proyectoMineria\data\raw\OASIS\oasis_longitudinal.csv"
 
 OUTPUT_DIR = r"C:\Users\mmera\OneDrive\Escritorio\ProyectoMineria\proyectoMineria\data\processed\OASIS_2D"
