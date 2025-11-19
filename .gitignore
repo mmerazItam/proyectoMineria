@@ -43,9 +43,6 @@ models_saved/
 *.pkl
 *.joblib
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # IDEs
 .vscode/
@@ -56,9 +53,8 @@ models_saved/
 .DS_Store
 
 # Datos grandes (si no se usan Git LFS)
-# Descomentar si no quieres subir los datos de imágenes
-# data/raw/images/
-# data/processed/images_resized/
+# Ignorar toda la carpeta data (imágenes y datos procesados)
+data/
 
 # Logs y resultados temporales
 *.log
