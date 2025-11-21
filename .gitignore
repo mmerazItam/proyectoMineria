@@ -54,7 +54,10 @@ models_saved/
 
 # Datos grandes (si no se usan Git LFS)
 # Ignorar toda la carpeta data (imágenes y datos procesados)
-data/
+data/raw
+data/processed/OASIS_2D
+data/processed/tabular_clean
+data/splits
 
 # Logs y resultados temporales
 *.log
